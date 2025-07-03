@@ -1,4 +1,4 @@
-# Hệ thống trích xuất nội dung trang web
+# Trang Web hiện thị tài nguyên hệ thống
 
 > Hệ thống dùng backend là .NET 8 để để xử lý yêu cầu phía server và frontend là ReactJS để làm phần giao diện. Cho phép người dùng xem được thông tin hệ thoogn sgoomf thông tin CPU Ram ổ cúng của server 
 
